@@ -8,7 +8,7 @@ A website that offers consultation on Search Engine Optimization, Online Reputat
 * CSS
 
 ## Website
-https://gunther123.github.io/Horiseon-Refactor/#social-media-marketing
+https://gunther123.github.io/Horiseon-Refactor/
 
 ## Contribution
 Made by Steven Slocum
